@@ -9,5 +9,9 @@ public class Store {
         // updating for new commit
 
         // let's see what's up
+
+        // adding more lines
+
+        // another commit
     }
 }
