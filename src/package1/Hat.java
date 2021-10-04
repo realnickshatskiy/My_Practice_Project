@@ -7,5 +7,11 @@ public class Hat {
         //adding some lines
         //for new commit
 
+
+        //adding more lines
+
+        //another commit
+
+        //practice going well
     }
 }
